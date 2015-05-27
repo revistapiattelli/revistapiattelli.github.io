@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://revistapiattelli.github.io
 title: Revista Piattelli
-tagline: A vlog of everyday life
-description: My awesome new site
+tagline: A day in the life of winemakers
+description: we love what we do so you can too
 paginate: 20
