@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://revistapiattelli.github.io
+title: Revista Piattelli
+tagline: A vlog of everyday life
+description: My awesome new site
+paginate: 20
